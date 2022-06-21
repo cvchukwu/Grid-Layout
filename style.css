@@ -1,0 +1,60 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    padding: 50px;
+    margin: 45px auto;
+}
+
+main {
+    height: 80vh;
+    width: 50%;
+    margin: auto;
+    display: grid;
+    gap: 1em;
+    grid-template-columns: repeat(6, 1fr);
+}
+
+.grid-col-span-2 {
+    grid-column: span 2;
+}
+
+.grid-row-span-1 {
+    grid-row: span 1;
+}
+
+.grid-row-span-2 {
+    grid-row: span 2;
+}
+
+.grid-col-span-3 {
+    grid-column: span 3;
+}
+
+.grid-col-span-4 {
+    grid-column: span 4;
+}
+
+.red--box {
+    background: rgb(210, 77, 25);
+}
+
+.yellow--box {
+    background: rgb(255, 157, 0);
+}
+
+.green--box {
+    background: rgba(60, 152, 60, 0.934);
+}
+
+.skyblue--box1 {
+    background: rgb(61, 173, 242);
+}
+
+.skyblue--box2 {
+    background: rgb(61, 173, 242);
+}
