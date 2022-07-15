@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/cvchukwu/Grid-Layout
+- Repo URL: https://github.com/cvchukwu/Grid-Layout
 - Live Site URL: https://cvchukwu.github.io/Grid-Layout/
 
 ## My process
